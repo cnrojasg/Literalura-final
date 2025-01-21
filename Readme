@@ -1,0 +1,6 @@
+Desarrollo basado en los criterios del Challengs
+Alura Consumo de api Gutendex, donde se optiene gran serie de datos sobre libros, aqui podemos ver menjo de json del api al desarrollo, mapeo de entidades,
+Jpa creacion base de datos.
+Registro de informacion DB, consumo de esta en formata requerido, algunas de las funciones como traer libros almacenado, autores, top10 libros mas descargados.
+Literalura es una aplicación de consola que permite gestionar libros y autores. 
+Está diseñada para conectarse a una base de datos PostgreSQL, realizar consultas avanzadas y manejar datos de manera eficiente.
